@@ -6,7 +6,7 @@ Este projeto foi criado como um exercício do módulo 8 da Cubos Academy, para p
 
 Você pode visualizar a aplicação online através do seguinte link:
 
-<!-- []() -->
+[Seconds Counter](https://secondscounter.netlify.app/) 
 
 ## Funcionalidades
 
