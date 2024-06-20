@@ -1,0 +1,13 @@
+.value {
+  display: flex;
+  gap: 0.5rem;
+  margin: 2rem 0 5rem;
+}
+
+.value__digit {
+  padding: 0.8rem 1.2rem;
+  background: #d594a1;
+  color: #1b0c0f;
+  border-radius: 0.4rem;
+  font-size: 8rem;
+}
